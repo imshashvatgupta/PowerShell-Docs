@@ -11,7 +11,7 @@ description: This chapter introduces the concepts of output formatting, command 
 ## Requirements
 
 The SQL Server PowerShell module is required by some of the examples shown in this chapter. The
-module installs as part of [SQL Server Management Studio (SMSS)][SMSS]. It's also used in
+module installs as part of [SQL Server Management Studio (SMSS)][SSMS]. It's also used in
 subsequent chapters. Download and install it on your Windows 10 lab environment computer.
 
 ## Format Right
